@@ -1,0 +1,26 @@
+.analytics-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .total-users {
+    margin-bottom: 20px;
+  }
+  
+  .recent-user {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .recent-user ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .recent-user ul li {
+    margin-bottom: 10px;
+  }
+  
