@@ -99,9 +99,6 @@ const SnackSelection = () => {
       return "Looks like you're a fan of salty snacks! Try swapping out one for a piece of fruit today.";
     };
 
-    const generateInsight = () => {
-      return "Consider snacking on nuts instead of chips for a healthier option!";
-    };
     const closeModal = () => {
         setShowRewardModal(false); // Close the modal
     };
